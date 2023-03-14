@@ -1,7 +1,7 @@
-# Joao Seixas
+# João Seixas
 
-Endereço : Rui Barbosa 154 - Marilia - SP
+Endereço: Rui Barbosa 154 - Marília - SP
 
-Experiencia:
+Experiência:
 
-Aluno Unimar
+Aluno Unimar - Análise e Desenvolvimento de Sistemas
